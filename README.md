@@ -10,4 +10,12 @@
 [![tuysss's github stats](https://github-readme-stats.vercel.app/api?username=tuysss)](https://github.com/tuysss/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+Java         3 hrs 24 mins   ████████████████████████▓   98.54 %
+XML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+```
+
 <!--END_SECTION:waka-->
