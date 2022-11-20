@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [gitlet](https://github.com/tuysss/cs61b-sp21)
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Distributed System / [DDIA](https://github.com/Vonng/ddia)
     
 - 📫 How to reach me: 2862670249@qq.com
 
