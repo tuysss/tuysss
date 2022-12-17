@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java              9 hrs 56 mins   █████████████████░░░░░░░░   68.45 %
-XML               1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-Protocol Buffer   1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-GitIgnore file    17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Properties        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-CLASS             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Java              12 hrs 57 mins  ██████████████████░░░░░░░   71.63 %
+XML               1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+Protocol Buffer   1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+GitIgnore file    21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+protobuf          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Properties        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
