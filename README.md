@@ -12,9 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java              7 hrs 21 mins   ███████████████████████░░   91.56 %
-Protocol Buffer   33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-protobuf          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Java              12 hrs 40 mins  ████████████████████████▒   96.97 %
+Protocol Buffer   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+protobuf          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
