@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java              8 hrs 18 mins   █████████████████████▓░░░   86.68 %
-JavaScript        22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Protocol Buffer   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-GitIgnore file    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Kotlin            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-protobuf          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Java              9 hrs 16 mins   █████████████████████▒░░░   84.92 %
+Protocol Buffer   32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+JavaScript        22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+GitIgnore file    17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Kotlin            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+XML               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
