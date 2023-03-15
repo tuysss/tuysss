@@ -12,9 +12,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python          9 hrs 22 mins   ████████████████████████▓   98.80 %
-SSH Config      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-AUTO_DETECTED   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python       4 hrs 52 mins   ████████████████████████▒   97.92 %
+SSH Config   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
